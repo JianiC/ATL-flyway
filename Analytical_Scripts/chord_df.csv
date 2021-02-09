@@ -1,0 +1,9 @@
+﻿from,to,Median rate,color
+S-GU,OB,0.87,#737373
+S-OB,SB,1.02,#737373
+S-OB,DD,2.7,#737373
+S-SB,GU,1.44,#737373
+S-OB,PO,0.34,#737373
+S-DD,OB,0.91,#737373
+S-DD,PO,0.41,#bdbdbd
+S-DD,SB,0.59,#bdbdbd
